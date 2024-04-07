@@ -1,0 +1,11 @@
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/dto/request/OrderLineItemsDto.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/dto/request/OrderRequestDto.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/OrderApplication.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/service/OrderService.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/repository/OrderRepository.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/model/Order.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/config/WebClientConfig.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/controller/OrderController.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/event/OrderPlacedEvent.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/dto/response/InventoryResponseDto.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/order-service/src/main/java/com/ecommerce/order/model/OrderLineItems.java

@@ -1,0 +1,7 @@
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/ProductApplication.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/dto/Response/ProductResponseDto.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/dto/Request/ProductRequestDto.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/Model/Product.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/Controller/ProductController.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/Repository/ProductRepository.java
+/Users/vikasjain/Downloads/Spring-Projects/Ecommerce/Ecommerce-main/product-service/src/main/java/com/ecommerce/product/service/ProductService.java
